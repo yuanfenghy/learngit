@@ -4,4 +4,5 @@ Git has a mutable index called stage.
 git hello.
 Creating a new branch is quick AND simple.
 add merge.
-git 123456
+git 12345
+Git remote test.
